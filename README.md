@@ -11,4 +11,4 @@ torchaudio
 scipy
 einops
 
--- Marcus Karr, marcus.karr@gmail.com
+marcus.karr@gmail.com
