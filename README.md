@@ -10,5 +10,3 @@ torch
 torchaudio
 scipy
 einops
-
-marcus.karr@gmail.com
